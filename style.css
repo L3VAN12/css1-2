@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    font-size: 72px;
+    margin-top: 24px;
+}
+#photo {
+    margin-left: 25px;
+    max-width: 600px;
+}
+#phdiv {
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 16px;
+}
+#staynight-text {
+    font-size: 20px;
+    text-align: center;
+    color: #414651;
+    margin-bottom: 16px;
+}
+#list-one {
+    font-size: 16px;
+    color: #155EEF;
+    margin-bottom: 32px;
+}
+#img-one {
+    margin-bottom: 12px;
+}
+#Read-more-button {
+    font-size: 24px;
+    background-color: #FFFFFF;
+    border-top: 2px solid yellow;
+    border-right: 2px solid yellow;
+    border-bottom: 2px solid yellow;
+    border-left: 2px solid yellow;
+    padding: 12px 32px;
+}
+h2 {
+    max-width: 600px;
+    margin-top: 77px;
+    text-align: center;
+}
+#divtwo {
+    max-width: 600px;
+    text-align: center;
+
+}
+#divthree {
+    font-size: 20px;
+    color: #00C76E;
+    text-align: center;
+    margin-top: 24px;
+}
+#div-two {
+    max-width: 600px;
+}
+#ollist {
+    font-size: 16px;
+    color: #155EEF;
+    text-align: center;
+    margin-top: 24px;
+    margin-left: 25px;
+}
+#imgid {
+    margin-top: 24px;
+    text-align: center;
+    margin-left: 25px;
+}
+#ollists {
+    text-align: center;
+    color: #FF5DA3;
+}
